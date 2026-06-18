@@ -140,7 +140,7 @@ A complete admission management system built using PHP and MySQL.
 
 💼 LinkedIn: www.linkedin.com/in/khannnaakshat
 
-🐙 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+🐙 GitHub: https://github.com/khanna419
 
 ---
 
